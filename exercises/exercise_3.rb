@@ -10,4 +10,4 @@ puts "----------"
 @store3 = Store.find(3)
 @store3.destroy
 
-puts Sotre.count 
+puts Store.count 
